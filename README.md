@@ -1,2 +1,9 @@
 # awesome-todo-app-list
-Awesome Todo App List - Built with ❤️
+
+## Overview
+Awesome Todo App List - Built with ❤️.
+
+## Features
+- User-friendly UI
+- Task management capabilities
+- Notifications
